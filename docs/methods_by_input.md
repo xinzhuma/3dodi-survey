@@ -70,7 +70,7 @@
   - [CVPR'21] Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2103.16470.pdf) [[Code]](https://github.com/Willy0919/DDMP-3D)
   - [ACCV'20] Dynamic Depth Fusion and Transformation for Monocular 3D Object Detection [[Paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Ouyang_Dynamic_Depth_Fusion_and_Transformation_for_Monocular_3D_Object_Detection_ACCV_2020_paper.pdf)
   - [ECCV'20] Rethinking Pseudo-LiDAR Representation [[Paper]](https://arxiv.org/pdf/2008.04582.pdf) [[Code]](https://github.com/xinzhuma/patchnet)
-- [CVPR'20] Learning Depth-Guided Convolutions for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/1912.04799.pdf) [[Code]](https://github.com/dingmyu/D4LCN)
+  - [CVPR'20] Learning Depth-Guided Convolutions for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/1912.04799.pdf) [[Code]](https://github.com/dingmyu/D4LCN)
   - [AAAI'20] Task-Aware Monocular Depth Estimation for 3D Object Detection [[Paper]](https://arxiv.org/pdf/1909.07701.pdf) [[Code]](https://github.com/WXinlong/ForeSeE)
   - [AAAI'20] Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation [[Paper]](https://arxiv.org/pdf/2002.01619.pdf)
   - [T-IP'19] MonoFEnet: Monocular 3D Object Detection with Feature Enhancement Networks [[paper]](https://ieeexplore.ieee.org/abstract/document/8897727/)
@@ -108,7 +108,7 @@
 
 #### Temporal Sequence [training&testing]
 
-- [arXiv'19] Monocular Quasi-Dense 3D Object Tracking [[Paper]](https://arxiv.org/pdf/2103.07351.pdf) [[Code]](https://github.com/SysCV/qd-3dt)
+- [arXiv'21] Monocular Quasi-Dense 3D Object Tracking [[Paper]](https://arxiv.org/pdf/2103.07351.pdf) [[Code]](https://github.com/SysCV/qd-3dt)
 - [ECCV'20] Kinematic 3D Object Detection in Monocular Video [[Paper]](https://arxiv.org/pdf/2007.09548.pdf) [[Code]](https://github.com/garrickbrazil/kinematic3d)
 - [ICCV'19] Joint Monocular 3D Vehicle Detection and Tracking [[Paper]](https://arxiv.org/pdf/1811.10742.pdf) [[Code]](https://github.com/ucbdrive/3d-vehicle-tracking)
 
