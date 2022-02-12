@@ -49,7 +49,7 @@ To facilitate both the systematic analysis of current approaches and a fair comp
 taxonomies
   │──by framework
   │    ├──methods based on 2D features [result lifting]
-  │    └──methods based on 2D features
+  │    └──methods based on 3D features
   |         ├──feature lifting
   │         └──data lifting
   └──by input data
