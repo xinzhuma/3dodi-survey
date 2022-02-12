@@ -23,7 +23,7 @@ Besides, this repo will be continuously maintained, and feel free to [contact me
 #### Resources of the Datasets
 
 - KITTI-3D [[Paper (CVPR'12)]](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf) [[Paper (IJRR'13)]](https://www.mrt.kit.edu/z/publ/download/2013/GeigerAl2013IJRR.pdf) [[Homepage]](http://www.cvlibs.net/datasets/kitti/) [[Data]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) [[Benchmark]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
-- Argoverse [[Paper (CVPR'19)]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf) [[Paper (NeurIPS'21)]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/4734ba6f3de83d861c3176a6273cac6d-Paper-round2.pdf) [[Homepage]](https://www.argoverse.org/index.html) [[Data]](https://www.argoverse.org/data.html#download-link)
+- Argoverse [[Paper (CVPR'19)]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf) [[Paper (NeurIPS'21)]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/4734ba6f3de83d861c3176a6273cac6d-Paper-round2.pdf) [[Homepage]](https://www.argoverse.org/index.html) [[Data]](https://www.argoverse.org/data.html#download-link) [[Benchmark]](https://eval.ai/web/challenges/challenge-page/725/leaderboard/1974)
 - Lyft L5 [[Homepage]](https://level-5.global/) [[Data]](https://level-5.global/download/) 
 - H3D [[Paper (ICRA'19)]](https://arxiv.org/pdf/1903.01568.pdf) [[Data]](https://usa.honda-ri.com//H3D)
 - A\*3D [[Paper (ICRA'20)]](https://arxiv.org/pdf/1909.07541.pdf) [[Homepage]](https://github.com/I2RDL2/ASTAR-3D)
