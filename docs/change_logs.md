@@ -1,3 +1,3 @@
 - [**Apr. 2, 2022**] Add MonoDTR, MonoJSG, and pseudo-Stereo
-- [**Feb. 10, 2022**] Initial release
 - [**Feb. 13, 2022**] Update information about Argoverse dataset
+- [**Feb. 10, 2022**] Initial release
