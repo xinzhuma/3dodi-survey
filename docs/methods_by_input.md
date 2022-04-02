@@ -1,5 +1,7 @@
 ## Standard Setting
 
+- [CVPR'22] MonoJSG: Joint Semantic and Geometric Cost Volume for
+  Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2203.08563.pdf)
 - [AAAI'22] Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2112.04628.pdf)
 - [WACV'22] ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[Paper]](https://arxiv.org/pdf/2106.01178.pdf) [[Code]](https://github.com/saic-vul/imvoxelnet)
 - [CoRL'21] Probabilistic and Geometric Depth: Detecting Objects in Perspective [[paper]](https://arxiv.org/pdf/2107.14160.pdf) [[Code]](https://github.com/open-mmlab/mmdetection3d)
@@ -54,6 +56,8 @@
 
 #### LiDAR Signal [training]
 
+- [CVPR'22] MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer [[Paper]](https://arxiv.org/pdf/2203.10981.pdf)
+
 - [ICLR'22] MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2201.10830.pdf)
 - [CVPR'21] Categorical Depth Distribution Network for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2103.01100.pdf) [[Code]](https://github.com/TRAILab/CaDDN)
 - [CVPR'21] MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation  [[Paper]](https://arxiv.org/abs/2103.12605.pdf)[[Code]](https://github.com/tjiiv-cprg/MonoRUn)
@@ -100,6 +104,7 @@
 #### LiDAR Signal [training], External Dataset [training]
 
 - KITTI-Depth
+  - [CVPR'22] Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving [[Paper]](https://arxiv.org/pdf/2203.02112.pdf)
   - [ECCV'20] Monocular 3D Object Detection via Feature Domain Adaptation [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540018.pdf) 
 
 

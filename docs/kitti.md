@@ -9,8 +9,6 @@ We benchmark the image-based 3D detectors in the KITTI-3D dataset with AP40 metr
 The following figure shows the summary of the methods which published on the top-tier conferences and jounrals until ICLR'22.
 
 <p align="center"> <img src="../resources/benchmark.jpg" width="95%"> </p>
-
-
 ## Detailed Benchmarks
 
 This part benchmarks the image-based 3D detecors publish on all venues based on the input data, and will be continuesly maintained.
@@ -19,7 +17,8 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 
 |      | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :------: | :--: |
-| [MonoCon](https://arxiv.org/pdf/2112.04628.pdf) | AAAI'21 | 22.50 | 16.46 |13.95|
+| [MonoCon](https://arxiv.org/pdf/2112.04628.pdf) | AAAI'22 | 22.50 | 16.46 |13.95|
+| [MonoJSG](https://arxiv.org/pdf/2203.08563.pdf) | CVPR'22 | 22.69 | 16.14 |13.64|
 | [GUPNet](https://arxiv.org/pdf/2107.13931.pdf) | ICCV'21 | 20.11 | 14.20 |11.77|
 | [MonoFlex](https://arxiv.org/pdf/2104.02323.pdf) | CVPR'21 | 19.94 | 13.89 |12.07|
 | [MonoDIS (multi)](https://ieeexplore.ieee.org/abstract/document/9200697) | T-PAMI'20 | 16.54 | 12.97 |11.04|
@@ -70,6 +69,7 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 |      | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :------: | :--: |
 | [MonoDistill](https://arxiv.org/abs/2201.10830) | ICLR'22 | 22.97 | 16.03 |13.60|
+| [MonoDTR](https://arxiv.org/pdf/2203.10981.pdf) | CVPR'22 | 21.99 | 15.39 |12.73|
 | [CaDDN](https://arxiv.org/pdf/2103.01100.pdf) | CVPR'21 | 19.17 | 13.41 |11.46|
 | [MonoRUn](https://arxiv.org/abs/2103.12605.pdf) | CVPR'21 | 19.65 | 12.30 |10.58|
 | [Ouyang et al.](https://openaccess.thecvf.com/content/ACCV2020/papers/Ouyang_Dynamic_Depth_Fusion_and_Transformation_for_Monocular_3D_Object_Detection_ACCV_2020_paper.pdf) | ACCV'20 | 11.52 | 8.26 |6.97|
@@ -110,6 +110,7 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 
 |      | Aux. Dataset | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :--: | :------: | :--: |
+| [pseudo-Stereo](https://arxiv.org/pdf/2203.02112.pdf) | KITTI-Depth  | CVPR'22 | 23.74 |    17.74    |15.14 |
 | [DA-3Ddet](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540018.pdf) | KITTI-Depth  | ECCV'20 | 16.77 |    11.50    |8.93|
 
 

@@ -1,3 +1,9 @@
+#### CVPR'22
+
+- MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer [[Paper]](https://arxiv.org/pdf/2203.10981.pdf)
+- MonoJSG: Joint Semantic and Geometric Cost Volume for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2203.08563.pdf)
+- Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving [[Paper]](https://arxiv.org/pdf/2203.02112.pdf)
+
 #### ICLR'22 
 
 - MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2201.10830.pdf)
