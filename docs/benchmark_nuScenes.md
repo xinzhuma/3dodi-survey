@@ -14,7 +14,9 @@ We present the nuScenes *validation* and *testing* benchmarks in this page (we i
 | [BEVDet-pure](https://arxiv.org/pdf/2112.11790.pdf) | - | 0.398 | 0.556 | 0.239 | 0.414 | 1.010 | 0.153 | 0.463 |
 | [PGD](https://arxiv.org/pdf/2107.14160.pdf) | - | 0.386 | 0.626 | 0.245 | 0.451 | 1.509 | 0.127 | 0.448 |
 | [FCOS3D](https://arxiv.org/pdf/2104.10956.pdf) | T, M | 0.358 | 0.690 | 0.249 | 0.452 | 1.434 | 0.124 | 0.428 |
-| [CenterNet](https://arxiv.org/pdf/1904.07850.pdf) | - | 0.338 | 0.658 | 0.255 | 0.629 | 1.629 | 0.142 | 0.400 |
+| [CenterNet](https://arxiv.org/pdf/1904.07850.pdf) | - | 0.338 | 0.658 | 0.255 | 0.629 | 1.629 | 0.142 | 0.400 
+| [Time3D](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Time3D_End-to-End_Joint_Monocular_3D_Object_Detection_and_Tracking_for_CVPR_2022_paper.pdf) | - | 0.312 | 0.732 | 0.254 | 0.504 | 1.523 | 0.121 | 0.394 |
+
 | [MonoDIS](https://arxiv.org/pdf/1905.12365.pdf) | - | 0.304 | 0.738 | 0.263 | 0.546 | 1.553 | 0.134 | 0.384 |
 
 

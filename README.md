@@ -32,6 +32,7 @@ Besides, this repo will be continuously maintained, and feel free to [contact me
 - CityScapes-3D [[Paper (CVPR'20 Workshop)]](https://arxiv.org/pdf/2006.07864.pdf) [[Homepage]](https://www.cityscapes-dataset.com/) [[Data]](https://www.cityscapes-dataset.com/downloads/) [[Benchmark]](https://www.cityscapes-dataset.com/benchmarks/#3d-vehicle-detection-task)
 - A2D2 [[Paper (arXiv)]](https://arxiv.org/pdf/2004.06320.pdf) [[Homepage]](https://www.a2d2.audi/a2d2/en.html) [[Data]](https://www.a2d2.audi/a2d2/en/download.html)
 - KITTI-360 [[Paper (arXiv)]](https://arxiv.org/abs/2109.13410.pdf) [[Homepage]](http://www.cvlibs.net/datasets/kitti-360/) [[Data]](http://www.cvlibs.net/datasets/kitti-360/download.php) [[Benchmark]](http://www.cvlibs.net/datasets/kitti-360/leaderboard_scene_understanding.php?task=box3d)
+- Rope3D [[Paper (CVPR'22)]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Rope3D_The_Roadside_Perception_Dataset_for_Autonomous_Driving_and_Monocular_CVPR_2022_paper.pdf) [[Homepage]](https://thudair.baai.ac.cn/index) [[Data]](https://thudair.baai.ac.cn/rope)
 
 #### Others 
 
@@ -74,7 +75,7 @@ This part collects the images-based 3D detectors, and you can choose to check th
 
 ## Benchmarks
 
-We also maintain the commonly used benchmarks to help the researchers get relevant information quickly.  At present, the [[KITTI-3D benchmark]](docs/kitti.md) and the [[nuScenes benchmark]](docs/nuScenes.md) are avaliable in this repo. 
+We also maintain the commonly used benchmarks to help the researchers get relevant information quickly.  At present, the [[KITTI-3D benchmark]](docs/benchmark_kitti.md) and the [[nuScenes benchmark]](docs/benchmark_nuScenes.md) are avaliable in this repo. 
 
 ## Citation
 
@@ -89,4 +90,4 @@ If you find our work useful in your research, please consider citing:
 
 ## Updates
 
-See [[this document]](docs/change_logs.md) for the logs of update
+See [[this document]](docs/update_logs.md) for the logs of updates

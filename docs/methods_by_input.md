@@ -1,7 +1,10 @@
 ## Standard Setting
-
+- [CVPR'22] Homography Loss for Monocular 3D Object Detection [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Homography_Loss_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)
+- [CVPR'22] Dimension Embeddings for Monocular 3D Object Detection [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dimension_Embeddings_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)
+- [CVPR'22] Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2205.09373.pdf)
 - [CVPR'22] MonoJSG: Joint Semantic and Geometric Cost Volume for
   Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2203.08563.pdf)
+- [CVPR'22] MonoGround: Detecting Monocular 3D Objects from the Ground [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qin_MonoGround_Detecting_Monocular_3D_Objects_From_the_Ground_CVPR_2022_paper.pdf)
 - [AAAI'22] Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2112.04628.pdf)
 - [WACV'22] ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[Paper]](https://arxiv.org/pdf/2106.01178.pdf) [[Code]](https://github.com/saic-vul/imvoxelnet)
 - [CoRL'21] Probabilistic and Geometric Depth: Detecting Objects in Perspective [[paper]](https://arxiv.org/pdf/2107.14160.pdf) [[Code]](https://github.com/open-mmlab/mmdetection3d)
@@ -93,6 +96,7 @@
 - Pascal3D & Stereo Pairs
   - [AAAI'19] Mono3D++: Monocular 3D Vehicle Detection with Two-Scale 3D Hypotheses and Task Priors [[Paper]](https://arxiv.org/pdf/1901.03446.pdf)
 - COCO
+  - [CVPR'22] Exploring Geometric Consistency for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2104.05858.pdf)
   - [ACCV'20] IAFA: Instance-aware Feature Aggregation for 3D Object Detection from a Single Image [[Paper]](https://arxiv.org/pdf/2103.03480.pdf)
   - [CVPR'16] Monocular 3D Object Detection for Autonomous Driving [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf) [[Code]](https://pan.baidu.com/s/1ggQKiJ5)
 
@@ -112,7 +116,7 @@
 ## With Auxiliary Data in Training and Testing Phases
 
 #### Temporal Sequence [training&testing]
-
+- [CVPR'22] Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Time3D_End-to-End_Joint_Monocular_3D_Object_Detection_and_Tracking_for_CVPR_2022_paper.pdf)
 - [arXiv'21] Monocular Quasi-Dense 3D Object Tracking [[Paper]](https://arxiv.org/pdf/2103.07351.pdf) [[Code]](https://github.com/SysCV/qd-3dt)
 - [ECCV'20] Kinematic 3D Object Detection in Monocular Video [[Paper]](https://arxiv.org/pdf/2007.09548.pdf) [[Code]](https://github.com/garrickbrazil/kinematic3d)
 - [ICCV'19] Joint Monocular 3D Vehicle Detection and Tracking [[Paper]](https://arxiv.org/pdf/1811.10742.pdf) [[Code]](https://github.com/ucbdrive/3d-vehicle-tracking)
@@ -170,7 +174,7 @@
 ## Other Settings
 
 #### Semi-Supervised
-
+- [CVPR'22] Exploring Geometric Consistency for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2104.05858.pdf)
 - [RA-L'21] Monocular 3D Detection With Geometric Constraint Embedding and Semi-Supervised Training [[Paper]](https://arxiv.org/pdf/2009.00764.pdf) [[Code]](https://github.com/Banconxuan/RTM3D)
 
 #### Weakly-Supervised

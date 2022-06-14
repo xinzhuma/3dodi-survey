@@ -17,8 +17,12 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 
 |      | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :------: | :--: |
+| [M3OD](https://arxiv.org/abs/2205.09373.pdf) | CVPR'22 | 24.93 | 17.14 |15.10|
 | [MonoCon](https://arxiv.org/pdf/2112.04628.pdf) | AAAI'22 | 22.50 | 16.46 |13.95|
 | [MonoJSG](https://arxiv.org/pdf/2203.08563.pdf) | CVPR'22 | 22.69 | 16.14 |13.64|
+| [Zhang et al.](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dimension_Embeddings_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf) | CVPR'22 | 23.62 | 16.10 |13.41|
+| [HOMO](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Homography_Loss_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf) | CVPR'22 | 21.75| 14.94 |13.07|
+| [MonoGround](https://openaccess.thecvf.com/content/CVPR2022/papers/Qin_MonoGround_Detecting_Monocular_3D_Objects_From_the_Ground_CVPR_2022_paper.pdf) | CVPR'22 | 21.37 | 14.36 |12.67|
 | [GUPNet](https://arxiv.org/pdf/2107.13931.pdf) | ICCV'21 | 20.11 | 14.20 |11.77|
 | [MonoFlex](https://arxiv.org/pdf/2104.02323.pdf) | CVPR'21 | 19.94 | 13.89 |12.07|
 | [MonoDIS (multi)](https://ieeexplore.ieee.org/abstract/document/9200697) | T-PAMI'20 | 16.54 | 12.97 |11.04|
@@ -82,6 +86,7 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 |      | Aux. Data | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :--: | :------: | :--: |
 | [DD3D](https://arxiv.org/pdf/2108.06417.pdf)                 |     DDAD-15M     |  ICCV'21   | 23.22 |   16.34    |14.20|
+| [Lian et al.](https://arxiv.org/pdf/2104.05858.pdf)          |       COCO       |  CVPR'22   | 23.41 |   15.26    |12.80|
 | [MonoEF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_3D_Object_Detection_An_Extrinsic_Parameter_Free_Approach_CVPR_2021_paper.pdf) |  KITTI-Raw  |  CVPR'21   | 21.29 |   13.87    |11.71|
 | [DFRNet](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_The_Devil_Is_in_the_Task_Exploiting_Reciprocal_Appearance-Localization_Features_ICCV_2021_paper.pdf) | KITTI-Depth  |  ICCV‘21   | 19.40 |   13.63    |10.35|
 | [PCT](https://proceedings.neurips.cc/paper/2021/file/6f3ef77ac0e3619e98159e9b6febf557-Paper.pdf) | KITTI-Depth  | NeurIPS'21 | 21.00 |   13.37    |11.31|
