@@ -23,6 +23,7 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 | [Zhang et al.](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dimension_Embeddings_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf) | CVPR'22 | 23.62 | 16.10 |13.41|
 | [HOMO](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Homography_Loss_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf) | CVPR'22 | 21.75| 14.94 |13.07|
 | [MonoGround](https://openaccess.thecvf.com/content/CVPR2022/papers/Qin_MonoGround_Detecting_Monocular_3D_Objects_From_the_Ground_CVPR_2022_paper.pdf) | CVPR'22 | 21.37 | 14.36 |12.67|
+| [DEVIANT](https://arxiv.org/pdf/2207.10758.pdf) | ECCV'22 | 21.88 | 14.46 |11.89|
 | [GUPNet](https://arxiv.org/pdf/2107.13931.pdf) | ICCV'21 | 20.11 | 14.20 |11.77|
 | [MonoFlex](https://arxiv.org/pdf/2104.02323.pdf) | CVPR'21 | 19.94 | 13.89 |12.07|
 | [MonoDIS (multi)](https://ieeexplore.ieee.org/abstract/document/9200697) | T-PAMI'20 | 16.54 | 12.97 |11.04|
@@ -53,6 +54,7 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 
 |      | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :------: | :--: |
+| [DCD](https://arxiv.org/pdf/2207.10047.pdf) | ECCV'22 | 23.81| 15.09 |13.21|
 | [AutoShape](https://arxiv.org/pdf/2108.11127.pdf) | ICCV'21 | 22.47 | 14.17 |11.36|
 
 
@@ -72,6 +74,8 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 
 |      | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :------: | :--: |
+| [DID-M3D](https://arxiv.org/pdf/2207.08531.pdf) | ECCV'22 | 24.40 | 16.29 |13.75|
+| [CMKD](https://arxiv.org/pdf/2211.07171.pdf) | ECCV'22 | 25.09 | 16.99 |15.30|
 | [MonoDistill](https://arxiv.org/abs/2201.10830) | ICLR'22 | 22.97 | 16.03 |13.60|
 | [MonoDTR](https://arxiv.org/pdf/2203.10981.pdf) | CVPR'22 | 21.99 | 15.39 |12.73|
 | [CaDDN](https://arxiv.org/pdf/2103.01100.pdf) | CVPR'21 | 19.17 | 13.41 |11.46|
@@ -124,6 +128,7 @@ This part benchmarks the image-based 3D detecors publish on all venues based on 
 
 |      | Venue | Easy | Moderate\* | Hard |
 | ---- | :---: | :--: | :------: | :--: |
+| [DfM](https://arxiv.org/pdf/2207.12988.pdf) | ECCV'22 | 22.94 | 16.82 |14.65|
 | [Kinematic3D](https://arxiv.org/pdf/2007.09548.pdf) | ECCV'20 | 19.07 | 12.72 |9.17|
 | [QD-3DT](https://arxiv.org/pdf/2103.07351.pdf) | arXiv'21 | 12.91 | 9.33 |7.86|
 

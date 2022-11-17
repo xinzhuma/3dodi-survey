@@ -1,3 +1,14 @@
+#### ECCV'22
+
+- DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection  [[Paper]](https://arxiv.org/pdf/2207.08531.pdf) [[Code]](https://github.com/SPengLiang/DID-M3D)
+- Lidar Point Cloud Guided Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2104.09035) [[Code]](https://github.com/SPengLiang/LPCG)
+- Semi-Supervised Monocular 3D Object Detection by Multi-View Consistency [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680702.pdf)
+- Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training [[paper]](https://arxiv.org/abs/2204.11590)
+- Monocular 3D Object Detection with Depth from Motion [[Paper]](https://arxiv.org/pdf/2207.12988.pdf) [[Code]](https://github.com/Tai-Wang/Depth-from-Motion)
+- DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2207.10758) [[Code]](https://github.com/abhi1kumar/DEVIANT)
+- Densely Constrained Depth Estimator for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2207.10047) [[Code]](https://github.com/BraveGroup/DCD)
+- Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2211.07171.pdf) [[Code]](https://github.com/Cc-Hy/CMKD)
+
 #### CVPR'22
 
 - MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer [[Paper]](https://arxiv.org/pdf/2203.10981.pdf)

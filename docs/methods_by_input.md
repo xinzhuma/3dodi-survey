@@ -1,4 +1,5 @@
 ## Standard Setting
+- [ECCV'22] DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2207.10758) [[Code]](https://github.com/abhi1kumar/DEVIANT)
 - [CVPR'22] Homography Loss for Monocular 3D Object Detection [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Homography_Loss_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)
 - [CVPR'22] Dimension Embeddings for Monocular 3D Object Detection [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dimension_Embeddings_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)
 - [CVPR'22] Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2205.09373.pdf)
@@ -9,7 +10,7 @@
 - [WACV'22] ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[Paper]](https://arxiv.org/pdf/2106.01178.pdf) [[Code]](https://github.com/saic-vul/imvoxelnet)
 - [CoRL'21] Probabilistic and Geometric Depth: Detecting Objects in Perspective [[paper]](https://arxiv.org/pdf/2107.14160.pdf) [[Code]](https://github.com/open-mmlab/mmdetection3d)
 - [CoRL'21] DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries [[paper]](https://arxiv.org/pdf/2110.06922.pdf) [[Code]](https://github.com/WangYueFt/detr3d)
-- [ICCVW'21]FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2104.10956.pdf) [[Code]](https://github.com/open-mmlab/mmdetection3d)
+- [ICCVW'21] FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2104.10956.pdf) [[Code]](https://github.com/open-mmlab/mmdetection3d)
 - [ICCV'21] Geometry Uncertainty Projection Network for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2107.13931.pdf) [[Code]](https://github.com/SuperMHP/GUPNet)
 - [ICCV'21] Geometry-based Distance Decomposition for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2104.03775.pdf) [[Code]](https://github.com/Rock-100/MonoDet)
 - [CVPR'21] Objects are Different: Flexible Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2104.02323.pdf) [[Code]](https://github.com/zhangyp15/MonoFlex)
@@ -44,13 +45,14 @@
 
 #### CAD Model [training]
 
+- [ECCV'22] Densely Constrained Depth Estimator for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2207.10047) [[Code]](https://github.com/BraveGroup/DCD)
 - [ICCV'21] AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2108.11127.pdf) [[Code]](https://github.com/zongdai/AutoShape)
 - [CVPR'17] Deep MANTA: A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image [[Paper]](https://arxiv.org/pdf/1703.07570.pdf)
 - [WACV'17] Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection [[Paper]](https://arxiv.org/pdf/1604.04693.pdf)
 - [CVPR'15] Data-Driven 3D Voxel Patterns for Object Category Recognition [[Paper]](http://yuxng.github.io/xiang_cvpr15_3dvp.pdf) [[Code]](https://github.com/yuxng/3DVP)
 - [CVPR'14] Are Cars Just 3D Boxes? – Jointly Estimating the 3D Shape of Multiple Objects [[Paper]](
 
-#### Stereo Pair [Training]
+#### Stereo Pair [training]
 
 - [arXiv'21] SGM3D: Stereo Guided Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2112.01914.pdf)
 - [BMVC'21] Deep Line Encoding for Monocular 3D Object Detection and Depth Prediction [[Paper]](https://www.bmvc2021-virtualconference.com/assets/papers/0299.pdf) [[Code]](https://github.com/cnexah/DeepLineEncoding)
@@ -59,9 +61,10 @@
 
 #### LiDAR Signal [training]
 
+- [ECCV'22] Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2211.07171.pdf) [[Code]](https://github.com/Cc-Hy/CMKD)
+- [ECCV'22] DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection  [[Paper]](https://arxiv.org/pdf/2207.08531.pdf) [[Code]](https://github.com/SPengLiang/DID-M3D)
 - [CVPR'22] MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer [[Paper]](https://arxiv.org/pdf/2203.10981.pdf)
-
-- [ICLR'22] MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2201.10830.pdf)
+- [ICLR'22] MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2201.10830.pdf) [[Code]](https://github.com/monster-ghost/MonoDistill)
 - [CVPR'21] Categorical Depth Distribution Network for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2103.01100.pdf) [[Code]](https://github.com/TRAILab/CaDDN)
 - [CVPR'21] MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation  [[Paper]](https://arxiv.org/abs/2103.12605.pdf)[[Code]](https://github.com/tjiiv-cprg/MonoRUn)
 - [IROS'19] Learning 2D to 3D Lifting for Object Detection in 3D for Autonomous Vehicles [[Paper]](https://arxiv.org/pdf/1904.08494.pdf) 
@@ -116,6 +119,7 @@
 ## With Auxiliary Data in Training and Testing Phases
 
 #### Temporal Sequence [training&testing]
+- [ECCV'22] Monocular 3D Object Detection with Depth from Motion [[Paper]](https://arxiv.org/pdf/2207.12988.pdf) [[Code]](https://github.com/Tai-Wang/Depth-from-Motion)
 - [CVPR'22] Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Time3D_End-to-End_Joint_Monocular_3D_Object_Detection_and_Tracking_for_CVPR_2022_paper.pdf)
 - [arXiv'21] Monocular Quasi-Dense 3D Object Tracking [[Paper]](https://arxiv.org/pdf/2103.07351.pdf) [[Code]](https://github.com/SysCV/qd-3dt)
 - [ECCV'20] Kinematic 3D Object Detection in Monocular Video [[Paper]](https://arxiv.org/pdf/2007.09548.pdf) [[Code]](https://github.com/garrickbrazil/kinematic3d)
@@ -174,6 +178,9 @@
 ## Other Settings
 
 #### Semi-Supervised
+- [ECCV'22] Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection [[Paper]](https://arxiv.org/pdf/2211.07171.pdf) [[Code]](https://github.com/Cc-Hy/CMKD)
+- [ECCV'22] Semi-Supervised Monocular 3D Object Detection by Multi-View Consistency [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680702.pdf)
+- [ECCV'22] Lidar Point Cloud Guided Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2104.09035) [[Code]](https://github.com/SPengLiang/LPCG)
 - [CVPR'22] Exploring Geometric Consistency for Monocular 3D Object Detection [[Paper]](https://arxiv.org/abs/2104.05858.pdf)
 - [RA-L'21] Monocular 3D Detection With Geometric Constraint Embedding and Semi-Supervised Training [[Paper]](https://arxiv.org/pdf/2009.00764.pdf) [[Code]](https://github.com/Banconxuan/RTM3D)
 
